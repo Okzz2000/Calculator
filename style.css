@@ -1,0 +1,36 @@
+body{
+    text-align:center;
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(122, 228, 255));
+  }
+  h1{
+    font-family: 'Teko', sans-serif;
+    font-size:6em;
+    line-height:1em;
+  }
+  h2{
+    font-family: 'Teko', sans-serif;
+    font-size:3em;
+    line-height:1em;
+  }
+  p{
+    font-family: 'Teko', sans-serif;
+    font-size:2em;
+  }
+  button{
+    background:rgb(0, 234, 255);
+    border:none;
+    margin-top:20px;
+    line-height:60px;
+    font-weight: bold;
+    padding: 0 40px;
+    font-size: 20px;
+  }
+  button:hover{
+    background:rgb(88, 255, 255);
+    border: none;
+  }
+  #sqrtC{
+    color:rgb(51, 255, 0);
+    background-color: black;
+  }
+  
